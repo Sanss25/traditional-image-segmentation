@@ -117,6 +117,4 @@ python app.py
 
 ---
 
-## 👨‍💻 Author
 
-Prateek
